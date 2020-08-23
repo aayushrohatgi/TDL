@@ -7,42 +7,42 @@
   "description": "Simple todo list creater",
   "icons": [
     {
-      "src": "icons/todo-list-72.png",
+      "src": "img/todo-list-72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-96.png",
+      "src": "img/todo-list-96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-128.png",
+      "src": "img/todo-list-128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-144.png",
+      "src": "img/todo-list-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-152.png",
+      "src": "img/todo-list-152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-192.png",
+      "src": "img/todo-list-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-384.png",
+      "src": "img/todo-list-384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "icons/todo-list-512.png",
+      "src": "img/todo-list-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
